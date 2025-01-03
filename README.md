@@ -1,29 +1,29 @@
 # Healthcare Analysis Report
-The Healthcare Analysis Report is a comprehensive Power BI project designed to provide actionable insights into the healthcare industry. Through advanced data visualization techniques, this report addresses key objectives critical to understanding market dynamics, improving vendor selection, and optimizing pricing strategies.
 
-# Key Objectives:
+The **Healthcare Analysis Report** is a Power BI project that leverages healthcare data to deliver actionable insights. This project demonstrates the use of advanced data visualization techniques to enhance decision-making in the healthcare sector.
 
-Analyze pricing trends across sub-categories and product groups.
-Identify top vendors and manufacturers by sales performance.
-Highlight top-selling molecules/test types and their pricing trends.
-Compare prices of different dosage forms of the same product.
-Assess the impact of weight on shipping and insurance costs.
-Evaluate the effectiveness of discounts on driving sales.
-Identify geographic pricing trends.
-Explore the relationship between sales and packaging.
-Visual Insights:
+## Key Objectives
+1. Analyze pricing trends across sub-categories and product groups.
+2. Identify top vendors and manufacturers by sales performance.
+3. Highlight top-selling molecules/test types and their pricing trends.
+4. Compare prices of different dosage forms of the same product.
+5. Assess the impact of weight on shipping and insurance costs.
+6. Evaluate the effectiveness of discounts on driving sales.
+7. Identify geographic pricing trends.
+8. Explore the relationship between sales and packaging.
 
-1.Clustered Column Chart: Count of molecular/test types by vendor.
-2.Pie Chart: Distribution of product subcategories.
-3.Stacked Bar Chart: Product count by manufacturer location.
-4.Funnel Chart: Sales distribution by brand name.
-5.Cards: Display total shipping costs and total units sold.
-6.Slicer: Filter by manufacturer location for tailored analysis.
-7.Text Box: Report title display.
+## Visual Insights
+- **Clustered Column Chart**: Count of molecular/test types by vendor.
+- **Pie Chart**: Distribution of product subcategories.
+- **Stacked Bar Chart**: Product count by manufacturer location.
+- **Funnel Chart**: Sales distribution by brand name.
+- **Cards**: Display total shipping costs and total units sold.
+- **Slicer**: Filter by manufacturer location for tailored analysis.
+- **Text Box**: Display the report title.
 
-# Features:
+## Features
+- **Interactive Visualizations**: Drill-down capabilities for detailed analysis.
+- **Data-Driven Insights**: Enables strategic decision-making in the healthcare sector.
+- **Power BI Collaboration**: Published reports for sharing and collaboration.
 
-Interactive Visualizations: Drill-down capabilities for detailed analysis.
-Data-Driven Insights: Supports strategic decision-making in healthcare.
-Power BI Collaboration: Published and shareable for teamwork and discussion.
-This project showcases how healthcare data can be transformed into meaningful visual narratives, aiding stakeholders in making informed decisions.
+This project highlights how healthcare data can be transformed into meaningful visual narratives, providing actionable insights for stakeholders.
