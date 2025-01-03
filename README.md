@@ -12,11 +12,17 @@ Identifying geographic trends in pricing.
 Exploring the relationship between sales and packaging.
 # Key Visualizations:
 Clustered Column Chart: Visualizes the count of molecular/test types by vendor.
+
 Pie Chart: Displays the distribution of product subcategories.
+
 Stacked Bar Chart: Shows product counts by manufacturer location.
+
 Funnel Chart: Highlights sales by brand name.
+
 Cards: Present total shipping costs and total units sold.
+
 Slicer: Allows filtering by manufacturer location.
+
 Text Box: Displays the title of the report.
 # Features:
 Interactive filtering for dynamic analysis.
